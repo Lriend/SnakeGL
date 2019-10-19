@@ -1,6 +1,7 @@
 # SnakeGL
 3D/C++ snake game variation
 
+# This repo is outdated - Updated project is available in SnakeGL-project repo
 THIS IS CODE BRANCH - TO DOWNLOAD THE APP GO TO "EXE" BRANCH
 
 Projekt na programowanie obiektowe (2 semestr).
